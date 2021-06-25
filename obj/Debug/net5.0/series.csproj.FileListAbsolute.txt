@@ -1,0 +1,16 @@
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\obj\Debug\net5.0\series.csproj.AssemblyReference.cache
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\obj\Debug\net5.0\series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\obj\Debug\net5.0\series.AssemblyInfoInputs.cache
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\obj\Debug\net5.0\series.AssemblyInfo.cs
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\obj\Debug\net5.0\series.csproj.CoreCompileInputs.cache
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\bin\Debug\net5.0\series.exe
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\bin\Debug\net5.0\series.deps.json
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\bin\Debug\net5.0\series.runtimeconfig.json
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\bin\Debug\net5.0\series.runtimeconfig.dev.json
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\bin\Debug\net5.0\series.dll
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\bin\Debug\net5.0\ref\series.dll
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\bin\Debug\net5.0\series.pdb
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\obj\Debug\net5.0\series.dll
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\obj\Debug\net5.0\ref\series.dll
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\obj\Debug\net5.0\series.pdb
+C:\Users\arauj\Downloads\cursos\Bootcamp\series\series\obj\Debug\net5.0\series.genruntimeconfig.cache
